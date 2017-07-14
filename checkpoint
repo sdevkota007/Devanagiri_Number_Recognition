@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/ninja/self_projects/Devanagari_Number_Recognition/fingerprint_classification-0.001-2conv-basic.model"
+all_model_checkpoint_paths: "/home/ninja/self_projects/Devanagari_Number_Recognition/fingerprint_classification-0.001-2conv-basic.model"
